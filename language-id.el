@@ -230,6 +230,7 @@
     ("Markdown" gfm-mode markdown-mode)
     ("Meson" meson-mode)
     ("Nix" nix-mode nix-ts-mode)
+    ("Nim" nim-mode)
     ("Objective-C" objc-mode)
     ("OCaml" caml-mode tuareg-mode)
     ("Perl" cperl-mode perl-mode)
